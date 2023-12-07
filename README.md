@@ -1,4 +1,4 @@
 # ac-demo
-First git repository
+First git repository on github
 <br>
 Author-AK
